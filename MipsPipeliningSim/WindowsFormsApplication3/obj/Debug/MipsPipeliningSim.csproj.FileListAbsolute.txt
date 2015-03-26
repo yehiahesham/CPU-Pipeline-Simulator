@@ -1,0 +1,135 @@
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Eman\Desktop\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\uuuu\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+D:\Fall 2014\Computer Architecture\Project\yahia's\new2\Architecture\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\Ahmad Adel\Desktop\Architecture project\Architecture-Tasneem\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehia\Desktop\work stuff\comp. arch\adel\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+D:\Fall 2014\Computer Architecture\Project\yahia's\new3\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\ahmadabdalla\Desktop\Architecture-Pipelining Idea\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehiahesham\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\Tasneem\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+D:\Fall 2014\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+D:\Fall 2014\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehia\Desktop\PLZ WORK\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\PLZ WORK 2\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\PLZ WORK 2 - Copy\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\PLZ WORK 2 - Copy\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\PLZ WORK 2 - Copy\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csprojResolveAssemblyReference.cache
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Form1.resources
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.Properties.Resources.resources
+C:\Users\yehia\Desktop\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\MipsPipeliningSim.csproj.GenerateResource.Cache
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
