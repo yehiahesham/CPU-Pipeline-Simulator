@@ -133,3 +133,6 @@ C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\WindowsFormsApplication
 C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
 C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
 C:\Users\yehia\Downloads\adel,Stall+bran\adel,Stall+bran\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\yehia\Documents\GitHub\CPU-Pipeline-Simulator\MipsPipeliningSim\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\yehia\Documents\GitHub\CPU-Pipeline-Simulator\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\yehia\Documents\GitHub\CPU-Pipeline-Simulator\MipsPipeliningSim\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
